@@ -1,0 +1,13 @@
+E:\C#\Сalculator\Сalculator\bin\Debug\netcoreapp3.1\Сalculator.exe
+E:\C#\Сalculator\Сalculator\bin\Debug\netcoreapp3.1\Сalculator.deps.json
+E:\C#\Сalculator\Сalculator\bin\Debug\netcoreapp3.1\Сalculator.runtimeconfig.json
+E:\C#\Сalculator\Сalculator\bin\Debug\netcoreapp3.1\Сalculator.runtimeconfig.dev.json
+E:\C#\Сalculator\Сalculator\bin\Debug\netcoreapp3.1\Сalculator.dll
+E:\C#\Сalculator\Сalculator\bin\Debug\netcoreapp3.1\Сalculator.pdb
+E:\C#\Сalculator\Сalculator\obj\Debug\netcoreapp3.1\Сalculator.csproj.AssemblyReference.cache
+E:\C#\Сalculator\Сalculator\obj\Debug\netcoreapp3.1\Сalculator.AssemblyInfoInputs.cache
+E:\C#\Сalculator\Сalculator\obj\Debug\netcoreapp3.1\Сalculator.AssemblyInfo.cs
+E:\C#\Сalculator\Сalculator\obj\Debug\netcoreapp3.1\Сalculator.csproj.CoreCompileInputs.cache
+E:\C#\Сalculator\Сalculator\obj\Debug\netcoreapp3.1\Сalculator.dll
+E:\C#\Сalculator\Сalculator\obj\Debug\netcoreapp3.1\Сalculator.pdb
+E:\C#\Сalculator\Сalculator\obj\Debug\netcoreapp3.1\Сalculator.genruntimeconfig.cache
