@@ -69,7 +69,7 @@ namespace Сalculator
                             break;
 
                         case "/":
-                            addStack.Push(numberSecond == 0 ? "INF" : (numberFirst / numberSecond).ToString());
+                            addStack.Push(numberSecond == 0 ? return "Division by 0" : (numberFirst / numberSecond).ToString());
                             break;
 
                         case "*":
